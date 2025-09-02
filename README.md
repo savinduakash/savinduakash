@@ -10,7 +10,8 @@
 ### 🌱 Currently Learning
 - Python 🐍  
 - Linux 🐧  
-- MySQL 🗄️  
+- MySQL 🗄️
+- Networking 🛜
 
 ---
 
